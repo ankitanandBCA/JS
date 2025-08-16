@@ -1,0 +1,23 @@
+.container{
+    border: 10px solid green;
+}
+
+.container-fluid{
+    border: 5px solid red;
+}
+
+.col{
+    min-height: 250px;
+    background-color: yellow;
+}
+
+.box-1{
+    background-color: aqua;
+}
+
+.box-2{
+    background-color: rgb(21, 22, 22);
+}
+.box-3{
+    background-color: rgb(227, 233, 233);
+}
